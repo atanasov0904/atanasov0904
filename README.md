@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @atanasov0904
-- 👀 I’m interested in learning about programming
-- 🌱 I’m currently learning python programming
-- 📫 How to reach me @atanasow_0904_ on instagram
+# 🎮 Leveling Up to Game Dev
 
-<!---
-atanasov0904/atanasov0904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm **Valentin**. I'm a student in NBU/SOFIA on a quest to become a **Game Developer**. 
+I like coding as much as cooking,but you are not as interested in my steaks as you are into my codes. 🚀
+
+
+
+### 🕹️ Skill Tree
+**Backend** C++,Java.
+**Plans** Rust,C#
+**Goals** Enough to comfortably build indie games
+
+### ⚔️ Current Quest
+* **Main:** Building the first indie-horror game
+* **Side:** Actually learning to code(algorithms,structures and more)
+
+
+*The road to hell feels like heaven,and the one to heaven feels like hell* 👾
