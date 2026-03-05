@@ -7,13 +7,15 @@
 
 
 ### 🕹️ Skill Tree
-**Backend** C++,Java.
-**Plans** Rust,C#
-**Goals** Enough to comfortably build indie games
+❗️**Backend** C++,Java.❗️
+
+❗️**Plans** Rust,C#❗️
+
+❗️**Goals** Enough to comfortably build indie games❗️
 
 ### ⚔️ Current Quest
-* **Main:** Building the first indie-horror game
-* **Side:** Actually learning to code(algorithms,structures and more)
+* **Main:** Building the first indie-horror game 👻
+* **Side:** Actually learning to code(algorithms,structures and more) 😴
 
 
 *The road to hell feels like heaven,and the one to heaven feels like hell* 👾
