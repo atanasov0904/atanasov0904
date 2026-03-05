@@ -1,7 +1,8 @@
 # 🎮 Leveling Up to Game Dev
 
-Hi! I'm **Valentin**. I'm a student in NBU/SOFIA on a quest to become a **Game Developer**. 
-I like coding as much as cooking,but you are not as interested in my steaks as you are into my codes. 🚀
+->Hi! I'm **Valentin**. I'm a student in NBU/SOFIA on a quest to become a **Game Developer**. 
+
+->I like coding as much as cooking,but you are not as interested in my steaks as you are into my codes. 🚀
 
 
 
